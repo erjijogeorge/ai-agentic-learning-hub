@@ -1,0 +1,11 @@
+[project]
+name = "langgraph-learning"
+version = "0.1.0"
+description = "LangGraph learning and experimentation project"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.1.0",
+    "langgraph>=1.0.4",
+]
